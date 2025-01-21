@@ -1,0 +1,260 @@
+
+	<body class="body-with-black-color">
+		<!-- Start Preloader Area -->
+		<div class="loader-wrapper">
+			<div class="loader"></div>
+			<div class="loader-section section-left"></div>
+			<div class="loader-section section-right"></div>
+		</div>
+		<!-- End Preloader Area -->
+				<div class="nav-area">
+					<div class="navbar-area">
+						<!-- Menu For Mobile Device -->
+						<div class="mobile-nav">
+							<a href="../index" class="logo">
+								<img src="../static/img/logo.png" alt="Cysigma Logo">
+							</a>
+						</div>
+				
+						<!-- Menu For Desktop Device -->
+						<div class="main-nav">
+							<nav class="navbar navbar-expand-md">
+								<div class="container-fluid">
+									<a class="navbar-brand" href="index">
+										<img src="../static/img/logo/cysigma_logo_light.png" style="width: 200px;" alt="Cysigma Logo">
+									</a>
+									
+									<div class="collapse navbar-collapse mean-menu">
+										<ul class="navbar-nav m-auto">
+										<li class="nav-item">
+											<a href="../index" class="nav-link">
+												Home
+											</a>
+										</li>
+										<li class="nav-item">
+											<a href="#" class="nav-link">
+												About
+												<i class="bx bx-chevron-down"></i>
+											</a>
+											<ul class="dropdown-menu">
+												<li class="nav-item">
+													<a href="../about-cysigma" class="nav-link">Our Mission</a>
+												</li>
+												<li class="nav-item">
+													<a href="../about-our-sigmas" class="nav-link">Our Sigma's</a>
+												</li>
+												<li class="nav-item">
+													<a href="../our-sigmates" class="nav-link">Our Sigmates</a>
+												</li>
+												
+											</ul>
+											
+										</li>
+				
+				
+										<li class="nav-item">
+											<a href="#" class="nav-link">
+												Services
+												<i class="bx bx-chevron-down"></i>
+											</a>
+											<ul class="dropdown-menu">
+												<li class="nav-item">
+													<a href="../network-security-testing/network-secuirty-services" class="nav-link">Network Security Testing</a>
+												</li>
+												<li class="nav-item">
+													<a href="#" class="nav-link">
+														Adversary Emulation
+														<i class="bx bx-chevron-right"></i>
+													</a>
+													<ul class="dropdown-menu">
+														<li class="nav-item">
+															<a href="../adversary-emulation/attact-and-penetration-testing" class="nav-link">Attack & Penetration Testing</a>
+														</li>
+														<li class="nav-item">
+															<a href="../adversary-emulation/red-and-purple-team" class="nav-link">Red & Purple Team</a>
+														</li>
+														<li class="nav-item">
+															<a href="../adversary-emulation/incident-response" class="nav-link">Incident Response</a>
+														</li>
+														<li class="nav-item">
+															<a href="../adversary-emulation/threat-intelligence" class="nav-link">Threat Intelligence</a>
+														</li>
+													</ul>
+												</li>
+												<li class="nav-item">
+													<a href="#" class="nav-link">
+														Application Security
+														<i class="bx bx-chevron-right"></i>
+													</a>
+				
+													<ul class="dropdown-menu">
+														<li class="nav-item">
+															<a href="../appsec/web-application-security-testing" class="nav-link">Web Application Security Testing</a>
+														</li>
+				
+														<li class="nav-item">
+															<a href="../appsec/moblie-application-security-testing" class="nav-link">Mobile Application Security Testing</a>
+														</li>
+														<li class="nav-item">
+															<a href="../appsec/advisory-services" class="nav-link">AppSec Advisory Services</a>
+														</li>
+													
+													</ul>
+												</li>	
+												<li class="nav-item">
+													<a href="../secure-scr/secure-source-code-review" class="nav-link">Secure Source Code review</a>
+												</li>
+												<li class="nav-item">
+													<a href="../iot/iot-security-testing" class="nav-link">IOT Security Testing</a>
+												</li>	
+												<li class="nav-item">
+													<a href="../cloud/cloud-security" class="nav-link">Cloud security</a>
+												</li>
+												<li class="nav-item">
+													<a href="../service/compliance" class="nav-link">Compliance </a>
+												</li>
+												
+												<li class="nav-item">
+													<a href="#" class="nav-link">
+														Transformation Services
+														<i class="bx bx-chevron-right"></i>
+													</a>
+													<ul class="dropdown-menu">
+														
+														<li class="nav-item">
+															<a href="../service/software-development" class="nav-link">Secure Software Development</a>
+														</li>
+													</ul>
+												</li>
+												<li class="nav-item">
+													<a href="../service/security-trainings" class="nav-link">Security Trainings</a>
+												</li>
+				
+											</ul>
+										</li>
+										<li class="nav-item">
+											<a href="#" class="nav-link">
+												Resources
+												<i class="bx bx-chevron-down"></i>
+											</a>
+				
+											<ul class="dropdown-menu">
+												<li class="nav-item">
+													<a href="https://cysigma.medium.com/" class="nav-link">Blog</a>
+												</li>
+											</ul>
+										</li>
+										<li class="nav-item">
+											<a href="partners" class="nav-link">Partners</a>
+										</li>
+									
+										<li class="nav-item">
+											<a href="contact" class="nav-link">Contact</a>
+										</li>
+				
+									</ul>
+										<div class="others-option">
+											<div class="get-quote">
+												<a href="contact" class="default-btn">
+													Let's Connect	
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+	
+
+
+
+
+
+
+	
+
+
+			<section class="contact-info-area">
+			<div class="container-fluid">
+				<div class="row" style="align-items: center;background-color: white;">
+					<div class="col-lg-6 p-0">
+						<div class="single-contact-info">
+							<i class="bx bx-location-plus"></i>
+							<h3>Toronto</h3>
+							<p>6060-3080 Yonge St. Toronto, ON</p>
+							<a href="mailto:support@squadronlabs.com">support@squadronlabs.com</a>
+							<!-- <a href="tel:+822456974">+822456974</a> -->
+						</div>
+					</div>
+
+					<div class="col-lg-6 p-0">
+						<div class="single-contact-map">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.3066602231543!2d-79.40430831050122!3d43.72495597544117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b32dd647aaaaf%3A0x22208ce94ddcb032!2s6060-3080%20Yonge%20St%2C%20Toronto%2C%20ON%20M4N%203N1%2C%20Canada!5e0!3m2!1sen!2sbd!4v1677872350846!5m2!1sen!2sbd" style="border:0;"></iframe>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- End Contact Info Area -->
+
+		<!-- Start Contact Area -->
+		<section class="faq-contact-area ptb-100">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-wrap">
+							<div class="contact-form">
+								<div class="section-title">
+									<span class="top-title">Contact Us</span>
+									<h2>Drop us a message for any query</h2>
+									<p>Connect with us anytime, anywhere - Your interests and questions are our priority.</p>
+								</div>
+
+								<form id="contactForm" method="post" action="https://squadronlabs.com/contact">
+									<div class="row">
+										<div class="col-lg-4">
+											<div class="form-group">
+												<input type="text" name="txtName" id="name" class="form-control text-black" required data-error="Please enter your name" placeholder="Your Name">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+			
+										<div class="col-lg-4 col-sm-6">
+											<div class="form-group">
+												<input type="email" name="txtEmail" id="email" class="form-control text-black" required data-error="Please enter your email" placeholder="Your Email">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+			
+										<div class="col-lg-4 col-sm-6">
+											<div class="form-group">
+												<input type="text" name="txtPhone" id="phone_number" required data-error="Please enter your number" class="form-control text-black" placeholder="Your Phone">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+			
+										<div class="col-md-12">
+											<div class="form-group">
+												<textarea name="txtMsg" class="form-control text-black" id="message" cols="30" rows="8" required data-error="Write your message" placeholder="Your Message"></textarea>
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
+			
+										<div class="col-lg-12 col-md-12">
+											<button type="submit" class="default-btn page-btn">
+												Send Message
+											</button>
+											<!-- <div id="msgSubmit" class="h3 text-center hidden"></div> -->
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>

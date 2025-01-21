@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'mad-hacker';
+					src: url('6406Mad-Hacker.woff2') format('woff2'),
+						url('6406Mad-Hacker.woff') format('woff');
+					font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.mad-hacker{font-family: 'mad-hacker' !important;}
+
+		
